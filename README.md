@@ -6,15 +6,15 @@ This project demonstrates the implementation of Multithreading and Multiprocessi
 
 Threading
 
-Multiprocessing
+1.Multiprocessing
 
-ThreadPoolExecutor
+2.ThreadPoolExecutor
 
-ProcessPoolExecutor
+3.ProcessPoolExecutor
 
-Multithreaded Web Scraping
+4.Multithreaded Web Scraping
 
-Parallel Factorial Calculation
+5.Parallel Factorial Calculation
 
 ⚙ Technologies Used
 
